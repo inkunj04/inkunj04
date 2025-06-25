@@ -1,8 +1,6 @@
-<!-- 🔥 Matrix background -->
-
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
-<!-- 🔤 Typing animation -->
+<!-- 🔤 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunj+Rahul+Mehta;I'm+a+Data+Scientist;AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
@@ -22,6 +20,14 @@
 - 📫 Reach me at: **mehtakunj1604@gmail.com**
 
 - ⚡ Fun fact: **I thought recursion was a personality trait. Turns out I just overthink everything in loops.**
+
+---
+
+### 🌦️ Real-Time Weather — Ahmedabad
+
+<p align="center">
+  <img src="https://wttr.in/Ahmedabad?0&lang=en" alt="Weather in Ahmedabad" />
+</p>
 
 ---
 
