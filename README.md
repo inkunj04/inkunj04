@@ -81,10 +81,3 @@
 
 ---
 
-### 💻 Live Dev Card
-
-<p align="center">
-  <a href="https://github.com/inkunj04">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkunj04&theme=github_dark" />
-  </a>
-</p>
