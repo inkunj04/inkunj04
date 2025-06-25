@@ -57,14 +57,27 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+<h2 align="center">📊 GitHub Stats & Languages</h2>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkunj04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=inkunj04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inkunj04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 
-<br><br><br><br><br><br><br>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=inkunj04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">📌 Kunj Mehta's GitHub Summary</h2>
+
+<div align="center">
+  <a href="https://github.com/inkunj04">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkunj04&theme=github_dark" />
+  </a>
+</div>
 
 ---
 
