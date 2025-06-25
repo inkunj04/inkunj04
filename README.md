@@ -1,6 +1,6 @@
 <!-- 🔥 Matrix background -->
 <p align="center">
-  <img src="https://i.gifer.com/7plQ.gif" width="100%" alt="matrix background gif" />
+  <img src="[https://i.gifer.com/7plQ.gif" width="100%" alt="matrix background gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)" />
 </p>
 
 <!-- 🔤 Typing animation -->
