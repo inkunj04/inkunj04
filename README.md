@@ -23,14 +23,6 @@
 
 ---
 
-### 🌦️ Real-Time Weather — Ahmedabad
-
-<p align="center">
-  <img src="[https://wttr.in/Ahmedabad?0&lang=en](https://www.accuweather.com/en/in/ahmedabad/202438/current-weather/202438)" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 
 <p align="left">
