@@ -2,8 +2,9 @@
 
 <!-- 🔤 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunj+Rahul+Mehta;I'm+a+Aspiring+Data+Science+Student;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunj+Rahul+Mehta;I'm+an+Aspiring+Data+Science+Student;AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <!-- 🎓 Subheading -->
 <h3 align="center">An aspiring Data Science student passionate about building smart, impactful tech 💡</h3>
